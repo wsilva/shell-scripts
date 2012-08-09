@@ -1,4 +1,4 @@
 shell-scripts
 =============
 
-Backup de sshell scripts que me ajudam no dia a dia.
+Backup de shell scripts que me ajudam no dia a dia.
